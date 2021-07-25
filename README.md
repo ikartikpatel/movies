@@ -1,6 +1,6 @@
-# hello_movies
+# movies
 
-A new Flutter project.
+A flutter project app where you can find the ditails of mpvies.
 
 ## Getting Started
 
